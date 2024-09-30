@@ -9,9 +9,9 @@
 
 # Socials:
 <p align="left">
-<a href="https://www.leetcode.com/km-incursion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="km-incursion" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/km_incursion/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="km-incursion" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/km_incursion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="km_incursion" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kirtan mevada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirtan mevada" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kirtan-mevada-abbb8222a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirtan mevada" height="30" width="40" /></a>
 <a href="https://instagram.com/kirtanm_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kirtanm_18" height="30" width="40" /></a>
 </p>
 
