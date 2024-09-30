@@ -2,10 +2,10 @@
 <h3 align="center">A CS Learner from Jamnagar! 😁</h3>
 
 # About Me:
-#### > From: Jamnagar, Gujarat, India
-#### > Education: B.Tech in ICT from DA-IICT
-#### > Interests: DSA, Web Development
-#### > How to reach me: kirtan.mevada2020@gmail.com
+#### --> From: Jamnagar, Gujarat, India
+#### --> Education: B.Tech in ICT from DA-IICT
+#### --> Interests: DSA, Web Development
+#### --> How to reach me: kirtan.mevada2020@gmail.com
 
 # Socials:
 <p align="left">
